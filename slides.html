@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<title></title>
+
+<meta name="description" content="">    
+
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<link rel="stylesheet" href="css/reveal.css">
+  <link rel="stylesheet" href="css/theme/Simple.css" id="theme">
+
+
+<!-- For syntax highlighting -->
+  <link rel="stylesheet" href="lib/css/zenburn.css">
+
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  document.write( '<link rel="stylesheet" href="css/print/' +
+    ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + 
+    '.css" type="text/css" media="print">' );
+</script>
+
+<!--[if lt IE 9]>
+<script src="lib/js/html5shiv.js"></script>
+<![endif]-->
+</head>
+
+<body>
+
+<div class="reveal">
+
+<!-- Any section element inside of this container is displayed as a slide -->
+<div class="slides">
+
+<section>
+<h1></h1>
+
+<p>
+<h4></h4>
+</p>
+</section>  
+
+
+<section id="from-zero-to-your-first-billion-requests" class="level1">
+<h1>From zero to your first billion requests</h1>
+<p>Daniel Giribet - Engineering Director at Schibsted</p>
+<p><img src="assets/twitter-logo.png" style="width:5.0%" /> <span class="citation" data-cites="danielgiri">@danielgiri</span></p>
+</section>
+<section id="section" class="level1">
+<h1></h1>
+<section id="about-me" class="level2">
+<h2>About me</h2>
+<p><img src="assets/logo-tvc.png" /> <img src="assets/bbc-logo-design.gif" /></p>
+</section>
+<section id="challenges" class="level2">
+<h2>Challenges</h2>
+</section>
+</section>
+<section id="section-1" class="level1">
+<h1></h1>
+<section id="lessons-learnt" class="level2">
+<h2>Lessons learnt</h2>
+</section>
+<section id="build-up-on-the-fundamentals" class="level2">
+<h2>#1 Build up on the fundamentals</h2>
+</section>
+<section id="so-we-keep-asking-questions-about-computing-fundamentals" class="level2">
+<h2>So we keep asking questions about computing fundamentals?</h2>
+<p><span class="fragment">What’s the O() cost of whatever?</span></p>
+</section>
+<section id="what-about-other-fundamentals" class="level2">
+<h2>What about other fundamentals?</h2>
+<p><span class="fragment">What’s the relationship between reason and emotion?</span> <span class="fragment">Why it’s practically impossible to get rid of all slackers on any ecosystem?</span></p>
+</section>
+<section id="its-not-my-job" class="level2">
+<h2>#2 “It’s not my job”</h2>
+</section>
+<section id="its-not-my-job-to-build-a-great-team" class="level2">
+<h2>“It’s not my job to build a great team”</h2>
+</section>
+<section id="i-do-not-have-time-to-build-a-great-team" class="level2">
+<h2>“I do not have time to build a great team”</h2>
+</section>
+<section id="someone-should-build-my-team" class="level2">
+<h2>“Someone should build my team”</h2>
+</section>
+</section>
+</div>
+
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.js"></script>
+
+<script>
+  // Full list of configuration options available here:
+  // https://github.com/hakimel/reveal.js#configuration
+  Reveal.initialize({
+    controls: true,
+    progress: true,
+    history: true,
+    center: false,
+
+  // available themes are in /css/theme
+      theme: Reveal.getQueryHash().theme || 'Simple', 
+  
+  // default/cube/page/concave/zoom/linear/fade/none
+      transition: Reveal.getQueryHash().transition || 'linear',
+  
+  // Optional libraries used to extend on reveal.js
+  dependencies: [
+    { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+    { src: 'plugin/markdown/showdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+    { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+    { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+    { src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+    { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+    // { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+  ]
+  });
+
+</script>
+
+</body>
+</html>
