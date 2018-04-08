@@ -2,42 +2,24 @@
 
 ## Lessons learnt
 
-## \#1 Build up on the fundamentals
 
-## So we keep asking questions about computing fundamentals?
-[What's the O() cost of whatever?]{.fragment}
+## \#1 Be prepared to interview
 
-[What's the quickest way to count all 1's in a bit array?]{.fragment}
+## A lot
+[Did I say a lot???]{.fragment}
 
-[&lt;Insert your fav question here&gt;]{.fragment}
+[Yes, a lot]{.fragment}
 
+[If you are above 10% conversion rate you're not doing your job]{.fragment}
 
-## What about other fundamentals?
-[What's the relationship between reason and emotion?]{.fragment}
+##  101
 
-[Why do most ecosystems have opportunistic agents?]{.fragment}
+## \#2 New teams need top-down tasks
+[Forming a new team is hard work]{.fragment}
 
-[How do self-replicating ideas propagate?]{.fragment}
+[Avoid the mistake of setting a blue sky project]{.fragment}
 
-[Can you give some examples of emergent behaviours?]{.fragment}
+[Resist the temptation of letting the team "find its own domain"]{.fragment}
 
-[We trust people who ask us for help a bit more, why?]{.fragment}
+[Set a specific short project instead, with clear deliverables]{.fragment}
 
-## Reading up on fundamentals
-
-![](assets/thinking-fast-and-slow.jpg "Thinking, Fast and Slow - Daniel Kahneman")
-![](assets/black-swan.jpg "The Black Swan: The Impact of the Highly Improbable - Nassim Nicholas Taleb")
-![](assets/thinking-fast-and-slow.jpg "Thinking, Fast and Slow - Daniel Kahneman")
-![](assets/black-swan.jpg "The Black Swan: The Impact of the Highly Improbable - Nassim Nicholas Taleb")
-![](assets/thinking-fast-and-slow.jpg "Thinking, Fast and Slow - Daniel Kahneman")
-![](assets/black-swan.jpg "The Black Swan: The Impact of the Highly Improbable - Nassim Nicholas Taleb")
-
-## \#2 "It's not my job"
-["It's not my job to build a great team"]{.fragment}
-["I do not have time to build a great team"]{.fragment}
-["Someone else should build my team"]{.fragment}
-
-## "It's not my job
-"It's not my job to interview"{.fragment}
-"I do not have time to interview"{.fragment}
-"Someone else should do interviews"{.fragment}
