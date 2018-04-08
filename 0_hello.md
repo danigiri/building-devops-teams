@@ -1,7 +1,5 @@
 # From zero to your first billion requests
-Daniel Giribet - Director of Engineering at Schibsted
-
-![](assets/twitter-logo.png){ width=5% } @danielgiri
+Daniel Giribet <br/> Director of Engineering at Schibsted
 
 #
 
@@ -10,6 +8,9 @@ Daniel Giribet - Director of Engineering at Schibsted
 <br/>
 ![](assets/bbc-logo-design.gif)
 ![](assets/logo-tvc.png)
+<br/>
+![](assets/github.png)
+
 
 ## The mission
 
@@ -29,10 +30,12 @@ Daniel Giribet - Director of Engineering at Schibsted
 
 ## Build up on the fundamentals
 
-## So we keep asking questions about computing fundamentals?
+## But not this ones
 [What's the O() cost of whatever?]{.fragment}
 
 [What's the quickest way to count all 1's in a bit array?]{.fragment}
+
+[How can a process leave the CPU?]{.fragment}
 
 [&lt;Insert your fav question here&gt;]{.fragment}
 
@@ -46,13 +49,16 @@ Daniel Giribet - Director of Engineering at Schibsted
 
 [Are unpredictable rewards more effective?]{.fragment}
 
-[Do trust people who ask us for help?]{.fragment}
+[Do we trust people more if they ask us for help?]{.fragment}
 
-## Reading up on fundamentals
-
+## Read up on 'other' fundamentals
 ![](assets/thinking-fast-and-slow.jpg "Thinking, Fast and Slow - Daniel Kahneman")
 ![](assets/black-swan.jpg "The Black Swan: The Impact of the Highly Improbable - Nassim Nicholas Taleb")
-![](assets/thinking-fast-and-slow.jpg "Thinking, Fast and Slow - Daniel Kahneman")
-![](assets/black-swan.jpg "The Black Swan: The Impact of the Highly Improbable - Nassim Nicholas Taleb")
-![](assets/thinking-fast-and-slow.jpg "Thinking, Fast and Slow - Daniel Kahneman")
-![](assets/black-swan.jpg "The Black Swan: The Impact of the Highly Improbable - Nassim Nicholas Taleb")
+![](assets/fooled.jpg "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets - Nassim Nicholas Taleb")
+![](assets/nations-fail.jpg "Why Nations Fail: The Origins of Power, Prosperity, and Poverty - Daron Acemoglu")
+![](assets/selfish-gene.jpg "The Selfish Gene: 40th Anniversary edition - Richard Dawkins")
+![](assets/god-delusion.jpg "The God Delusion: 10th Anniversary Edition - Richard Dawkins")
+![](assets/unbroken.jpg "Unbroken Brain: A Revolutionary New Way of Understanding Addiction - Maia Szalavitz")
+![](assets/theory-fun.jpg "Theory of Fun for Game Design - Raph Koster")
+![](assets/grunt.jpg "Grunt: The Curious Science of Humans at War  - Mary Roach")
+                                                                                   

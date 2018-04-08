@@ -1,25 +1,36 @@
+# Building the teams
+
 # 
-
-## Lessons learnt
-
 
 ## \#1 Be prepared to interview
 
 ## A lot
-[Did I say a lot???]{.fragment}
-
-[Yes, a lot]{.fragment}
-
-[If you are above 10% conversion rate you're not doing your job]{.fragment}
+[Think of less than 10% conversion rate]{.fragment}
 
 ##  101
+[Number of interviews done in 2016]{.fragment}
+
+[Close to one every two working days]{.fragment}
+
 
 ## \#2 New teams need top-down tasks
 [Forming a new team is hard work]{.fragment}
 
-[Avoid the mistake of setting a blue sky project]{.fragment}
+[Avoid the mistake of setting a blue sky project like 'cluster management']{.fragment}
 
-[Resist the temptation of letting the team "find its own domain"]{.fragment}
+[Set a specific short project instead, with clear value and impact]{.fragment}
 
-[Set a specific short project instead, with clear deliverables]{.fragment}
+[Team now mature? -> open up domain of work]{.fragment}
+
+
+## \#3 ADD NEW CONTENT HERE
+
+
+## \#4 Look for a balance between develop-centric and ops-centric
+
+[Excellence in operations alone is not enough]{.fragment}
+
+[Nor is development expertise in isolation]{.fragment}
+
+[Are you doing security interviews?]{.fragment}
 
