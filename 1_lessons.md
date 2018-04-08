@@ -13,7 +13,7 @@
 [Close to one every two working days]{.fragment}
 
 
-## \#2 New teams need top-down tasks
+## \#2 New teams need <br/>top-down tasks
 [Forming a new team is hard work]{.fragment}
 
 [Avoid the mistake of setting a blue sky project like 'cluster management']{.fragment}
@@ -23,14 +23,15 @@
 [Team now mature? -> open up domain of work]{.fragment}
 
 
-## \#3 ADD NEW CONTENT HERE
+## \#3 Do not forsake ancient wisdom
+[Don't change your architecture while migrating environments]{.fragment}
+ADD MORE
 
 
 ## \#4 Look for a balance between develop-centric and ops-centric
-
 [Excellence in operations alone is not enough]{.fragment}
 
 [Nor is development expertise in isolation]{.fragment}
 
-[Are you doing security interviews?]{.fragment}
+[Do you take into account security?]{.fragment}
 
