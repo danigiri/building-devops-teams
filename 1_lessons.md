@@ -23,7 +23,6 @@
 [Team now mature? -> open up domain of work]{.fragment}
 
 
-
 ## \#3 Environment, architecture, implementation
 
 [Avoid changing the architecture just because a new environment/implementation just appeared]{.fragment}
@@ -31,7 +30,6 @@
 [Example - changing from client-side to server-side load balancing because a new environment supports it]{.fragment} 
 
 [Example - Hystrix vs resilience4j - different impleementations, similar concept, similar architecture]{.fragment} 
-
 
 
 ## \#4 Look for a balance between develop-centric and ops-centric
