@@ -1,19 +1,14 @@
 #
 
-## Scalable knowledge
+## {data-background-image="assets/spread-ideas.jpg"}
+<!-- CC https://www.flickr.com/photos/shutterhacks/4474421855/ -->
+<h2 style="color: white" >Scalable knowledge</h2>
 
-## Handholding is your enemy
-[Expand your engineers' knowledge]{.fragment}
+## Can't train everybody
 
-[Expand your teams' knowledge]{.fragment}
+Can't meet everyone
 
-[Expand your users' knowledge]{.fragment}
-
-[Can't train everybody]{.fragment}
-
-[Can't meet everyone]{.fragment}
-
-[Screencasts the most effective so far]{.fragment}
+Can't do joint projects with all teams
 
 <!--
 Screencasts rock as they are relatively easy to produce and can be viralised
@@ -26,15 +21,31 @@ Screencasts rock as they are relatively easy to produce and can be viralised
 </blockquote>
 
 [Wiki-style]{.fragment} [ticket system]{.fragment} [Documents]{.fragment} [Emails]{.fragment} 
-[PR discussion]{.fragment} [code issues]{.fragment} [TODOs in the code]{.fragment}
+[PR discussions]{.fragment} [code issues]{.fragment} [TODOs in the code]{.fragment}
 [Email attachments]{.fragment} [Markdown]{.fragment} [YAML]{.fragment}
 [ReadTheSource(tm)]{.fragment} [MyCodeDoesn'tNeedComments(tm)]{.fragment} [It's in the production server somewhere]{.fragment}
 
-## Steal a page from the content people
-[Digital journalism has been doing this for some time]{.fragment}
+
+## Options to scale knowledge
+[Digital content industry has been doing this for a while]{.fragment}
 
 [Single data entry as a principle]{.fragment}
 
 [Produce once, publish multiple times]{.fragment}
 
-![Source: http://www.bbc.com/future/story/20180406-how-cured-meats-protect-us-from-food-poisoning](assets/bbc-future2.png "http://www.bbc.com/future/story/20180406-how-cured-meats-protect-us-from-food-poisoning"){.fragment}
+[It's the video stoopid]{.fragment}
+
+![](assets/bbc-future2.png "http://www.bbc.com/future/story/20180406-how-cured-meats-protect-us-from-food-poisoning"){.fragment}
+
+
+## Approach of the digital content industry
+
+![](assets/cms.pdf.svg "All CMS are belong to us")
+
+
+## It's the video stoopid
+
+Internal concept and training screencasts work surprisingly well
+
+![](assets/video.webp "Video killed the radio star"){width=60%}
+

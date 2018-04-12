@@ -2,40 +2,32 @@
 
 # 
 
-## \#1 Be prepared to interview
+## \#1 Be prepared to interview a lot
 
-## A lot
-[Think of less than 10% conversion rate]{.fragment}
+## \#1.5 Have metrics on hiring
 
-##  101
-[Number of interviews done in 2016]{.fragment}
+![](assets/metrics.png "Metrics"){ width=20% }
+
+Like we do with any other (engineering) process
+
+[Paying attention to the candidate-hire conversion rate (10%?)]{.fragment}
+
+
+## \#1.6 Allocate plenty of time for interviewing
+[101 - Number of interviews done in 2016]{.fragment}
 
 [Close to one every two working days]{.fragment}
 
 
-## \#2 New teams need <br/>top-down tasks
+## \#2 New teams love <br/>top-down tasks
 [Forming a new team is hard work]{.fragment}
 
-[Avoid the mistake of setting a blue sky project like 'cluster management']{.fragment}
+[Avoid the mistake of setting a blue sky project like 'continuous delivery']{.fragment}
 
 [Set a specific short project instead, with clear value and impact]{.fragment}
 
 [Team now mature? -> open up domain of work]{.fragment}
 
+## \#3 Have metrics for tool adoption since day one
 
-## \#3 Environment, architecture, implementation
-
-[Avoid changing the architecture just because a new environment/implementation just appeared]{.fragment}
-
-[Example - changing from client-side to server-side load balancing because a new environment supports it]{.fragment} 
-
-[Example - Hystrix vs resilience4j - different impleementations, similar concept, similar architecture]{.fragment} 
-
-
-## \#4 Look for a balance between develop-centric and ops-centric
-[Excellence in operations alone is not enough]{.fragment}
-
-[Nor is development expertise in isolation]{.fragment}
-
-[Do you take into account security?]{.fragment}
-
+![](assets/spinnaker-deployments.png "Spinnaker deployments")

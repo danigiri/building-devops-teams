@@ -2,7 +2,8 @@
 
 #
 
-## Now you have (a) team(s)... what's next?
+## Now you have (a) team(s)... what's next? {data-background-image="assets/bluesky.jpg"}
+<!-- Source: https://www.youtube.com/watch?v=9PcyEcvOrXQ -->
 
 <ul class="fragment">
 	<li>User focus</li>
@@ -13,17 +14,21 @@
 
 #
 
-## User focus
+## {data-background-image="assets/hugs.jpg"}
+<!-- CC https://www.flickr.com/photos/streetmatt/15761889077/ -->
+<h2 style="color: white" >User focus</h2>
 
 ## User focus is the root of all team value
-[How to drive it?]{.fragment}
+
+![](assets/user-focus.pdf.svg "User focus")
+
 
 ## \#1 Joint projects with product engineering teams
-[Earliest success comes from such projects]{.fragment}
+Fast way to (early) team success
 
-[Initiative is usually hero-driven]{.fragment}
+![](assets/joint-projects.pdf.svg "Joint projects are best"){.fragment}
 
-[Make those initiatives systematic]{.fragment}
+<!-- Make those initiatives systematic -->
 
 
 <!--
@@ -33,31 +38,19 @@ systems.
 -->
 
 
-## \#2 Help center
-[Structured support]{.fragment}
+## \#2 Structured support
+Supporting the user teams effectively
+
+[Avoid chat systems for engineering support]{.fragment}
+
+[Good old ticketing works better]{.fragment}
+
+[We gathered data from teams and users both to support the decision ^_^]{.fragment}
+
 
 ## Make it really easy
 ![](assets/help-center.png "CRE team help center")
 
 <!--
-Around 30% of issues are 'urgent', that is they need 1 business day reply
--->
-
-## \#3 Identify stakeholders early in the game
-[A periodic 'stakeholder' meeting a good way to start]{.fragment}
-
-[Not something for 'product people' only]{.fragment}
-
-[Formal session with preparation, agenda, demos and outcomes]{.fragment}
-
-## Indicators of success of stakeholder sessions
-<ul class="fragment">
-	<li>Non-managers attending</li>
-	<li>Team diversity</li>
-	<li>It's not always you speaking</li>
-	<li>Complaints are voiced... <span class="fragment">politely</span></li>
-</ul>
-
-<!--
-Explain star vs wheel model
+Around 30% of issues are 'urgent', they need 1 business day reply
 -->
