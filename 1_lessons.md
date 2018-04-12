@@ -10,7 +10,7 @@
 
 Like we do with any other (engineering) process
 
-[Paying attention to the candidate-hire conversion rate (10%?)]{.fragment}
+[Pay attention to the candidate-hire conversion rate (10%?)]{.fragment}
 
 
 ## \#1.6 Allocate plenty of time for interviewing
@@ -22,7 +22,7 @@ Like we do with any other (engineering) process
 ## \#2 New teams love <br/>top-down tasks
 Forming a new team is hard work
 
-[Avoid the mistake of setting a blue sky project like 'container management']{.fragment}
+Avoid the mistake of setting a blue sky project like 'containers'
 
 [Set a specific short project instead, with clear value and impact]{.fragment}
 

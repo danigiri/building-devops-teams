@@ -45,7 +45,7 @@ Avoid chat systems for engineering support
 
 Good old ticketing works better
 
-We gathered data from teams and users both to support the decision ^_^
+[We gathered data from teams and users both to support the decision ^_^]{.fragment}
 
 
 ## Make it really easy

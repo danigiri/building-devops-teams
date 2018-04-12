@@ -10,6 +10,8 @@ Can't meet everyone
 
 Can't do joint projects with all teams
 
+[Scale your knowledge, not only your instances]{.fragment}
+
 <!--
 Screencasts rock as they are relatively easy to produce and can be viralised
 -->

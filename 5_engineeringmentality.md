@@ -8,7 +8,7 @@ Solve operations problems with development solutions
 
 Usually the alternative is "we need more people"
 
-Or download another (usually newer) software
+[Or download another (usually newer) software]{.fragment}
 
 
 ## Download and play
@@ -30,7 +30,7 @@ Or download another (usually newer) software
 Problem - when something does not quite fit or is not implemented
 
 Solution is usually...
-[download and play something else]{.fragment}
+[download and play more stuff]{.fragment}
 
 [We end up spending a significant chunk of our time migrating systems]{.fragment}
 
@@ -58,9 +58,9 @@ Solution is usually...
 ## Download, play, deep dive
 Alternative is to download, play and become a domain expert
 
-[Only in what is core to you]{.fragment}
+Only in what is core to you
 
-[Higher risk...]{.fragment} [and reward if done well]{.fragment}
+Higher risk... [and reward if done well]{.fragment}
 
 [Challenge - choose core domain and allocate resources]{.fragment}
 
@@ -100,7 +100,7 @@ Problem - Spinnaker did not support Travis
 
 ![](assets/spinnaker-logo.png "Spinnaker is a continuous delivery system")
 
-## Developed the support
+## Developed Travis support
 
 ![](assets/spinnaker-ui.png "Spinnaker UI")
 
