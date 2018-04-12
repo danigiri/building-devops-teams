@@ -1,5 +1,5 @@
 # building-devops-teams
-Presentation on building devops teams
+Presentation on building devops teams at some scale :)
 
 `ag -l | entr pandoc -t html5 \
 		--template=template-revealjs.html \

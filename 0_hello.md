@@ -79,15 +79,6 @@ Are unpredictable rewards more effective?
 
 Do we trust people more if they ask us for help?
 
-## Other fields of knowledge
-Economics history
-
-Psychology
-
-Emergent behaviours
-
-Journalism
-
 
 ## Read up on 'other' fundamentals
 ![](assets/thinking-fast-and-slow.jpg "Thinking, Fast and Slow - Daniel Kahneman")

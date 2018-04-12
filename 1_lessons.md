@@ -14,15 +14,15 @@ Like we do with any other (engineering) process
 
 
 ## \#1.6 Allocate plenty of time for interviewing
-[101 - Number of interviews done in 2016]{.fragment}
+101 - Number of interviews done in 2016
 
 [Close to one every two working days]{.fragment}
 
 
 ## \#2 New teams love <br/>top-down tasks
-[Forming a new team is hard work]{.fragment}
+Forming a new team is hard work
 
-[Avoid the mistake of setting a blue sky project like 'continuous delivery']{.fragment}
+[Avoid the mistake of setting a blue sky project like 'container management']{.fragment}
 
 [Set a specific short project instead, with clear value and impact]{.fragment}
 

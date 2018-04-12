@@ -4,11 +4,11 @@
 
 ## Engineering Mentality challenges
 
-[Solve operations problems with development solutions]{.fragment}
+Solve operations problems with development solutions
 
-[Usually the alternative is "we need more people"]{.fragment}
+Usually the alternative is "we need more people"
 
-[Or download another (newer) software]{.fragment}
+Or download another (usually newer) software
 
 
 ## Download and play
@@ -18,7 +18,7 @@
 
 [Boom, instant value]{.fragment}
 
-[Move on]{.fragment}
+[Add metrics, alerts, docs and move on]{.fragment}
 
 [Extremely successful pattern]{.fragment}
 
@@ -27,9 +27,9 @@
 
 ## Endless migration risk
 
-[Problem - when something does not quite fit or is not implemented]{.fragment}
+Problem - when something does not quite fit or is not implemented
 
-[Solution is usually...]{.fragment}
+Solution is usually...
 [download and play something else]{.fragment}
 
 [We end up spending a significant chunk of our time migrating systems]{.fragment}
@@ -89,16 +89,16 @@ Problem - Cassandra backup recovery takes 12h+
 
 
 ## Download, play, contribute
-[Even better alternative is to download, play, and contribute code]{.fragment}
+Even better alternative is to download, play, and contribute code]
 
-[Only on what is even more core for you]{.fragment}
+Only on what is even more core for you
 
 
 ## Spinnaker example
 
 Problem - Spinnaker did not support Travis
 
-![](assets/spinnaker-logo.png "Spinnaker is a continuous delivery system"){.fragment}
+![](assets/spinnaker-logo.png "Spinnaker is a continuous delivery system")
 
 ## Developed the support
 

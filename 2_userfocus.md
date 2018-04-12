@@ -41,11 +41,11 @@ systems.
 ## \#2 Structured support
 Supporting the user teams effectively
 
-[Avoid chat systems for engineering support]{.fragment}
+Avoid chat systems for engineering support
 
-[Good old ticketing works better]{.fragment}
+Good old ticketing works better
 
-[We gathered data from teams and users both to support the decision ^_^]{.fragment}
+We gathered data from teams and users both to support the decision ^_^
 
 
 ## Make it really easy
